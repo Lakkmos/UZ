@@ -1,0 +1,5 @@
+path_save: C:/Users/UserPC/Desktop/UZ/export.xls
+
+path_save_yar: C:\Users\UserPC\YandexDisk\operator_account\operator_account.xlsx
+path_save_br: C:\Users\UserPC\YandexDisk\operator_account_BR\operator_account.xlsx
+path_save_che: C:\Users\UserPC\YandexDisk\operator_account_2CHE\operator_account_2CHE.xlsx
